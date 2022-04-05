@@ -1,6 +1,6 @@
 //Create simple Window
 const myWindow = {
-    window: {
+    container: {
         id: "mywindow",
         type: "window",
         modal: false,
